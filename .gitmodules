@@ -1,0 +1,3 @@
+[submodule "external/PersistanceVulkan"]
+	path = external/PersistanceVulkan
+	url = https://github.com/WillIAMShSp/PersistanceVulkan.git
